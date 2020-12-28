@@ -6,12 +6,12 @@ var hour = today.getHours();
 var name = 'Maltob';
 
 // Here you can change your greetings
-var gree1 = 'Go to Sleep! ';
-var gree2 = 'Good morning! ';
-var gree3 = 'Good afternoon ';
-var gree4 = 'Good evening ';
-var gree5 = 'Good evening ';
-var gree6 = 'Good evening ';
+var gree1 = 'Si è fatto tardi ';
+var gree2 = 'Buongiorno ';
+var gree3 = 'Buon pomeriggio ';
+var gree4 = 'Buonasera ';
+var gree5 = 'Buonasera ';
+var gree6 = 'Buonasera ';
 
 // Define the hours of the greetings
 if (hour >= 23 && hour < 5) {
